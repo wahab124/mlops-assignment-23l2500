@@ -29,5 +29,7 @@ for managing the dataset, source code, trained model, and project dependencies.
 - **requirements.txt** — Contains the Python packages required to install and
   run the machine learning project.
 
-- **README.md** — Provides documentation about the project, its structure,
-  installation requirements, and instructions for running the training script.
+-To install all required Python packages, run:
+
+```bash
+pip install -r requirements.txt
